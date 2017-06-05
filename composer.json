@@ -1,0 +1,16 @@
+{
+    "name": "simpleuservices/ficelle",
+    "description": "Simple abstraction of PHP's strings",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "^6.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Geoffrey HERVET",
+            "email": "hervetg@gmail.com"
+        }
+    ],
+    "require": {}
+}
